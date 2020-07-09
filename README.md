@@ -1,8 +1,8 @@
 ## Hello World
 
-I'm a deeply technical guy, currently working at Microsoft Consulting as a Cross-Domain Architect after around 20 years of work in the telco/internet industry doing just about everything from network planning to mass-market product development.
+I'm a deeply technical guy, currently working at Microsoft Consulting as a Cross-Domain Architect after around 20 years of work in the telco/internet industry, where I did just about everything from network planning to mass-market product development.
 
-I've been blogging about technology in general (but mostly about Macs) at [Tao of Mac](https://taoofmac.com) since 2002, and I have [a little portfolio site](https://carmo.io) with more info. 
+I've been blogging about technology in general (but mostly about Macs) at [Tao of Mac](https://taoofmac.com) since 2002, and have [a little portfolio site](https://carmo.io) with more info. 
 
 Make sure you also visit [Insightful Systems](https://github.com/insightfulsystems) and [Piku](https://github.com/piku) while you're here.
 
