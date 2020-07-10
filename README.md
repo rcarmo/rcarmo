@@ -2,7 +2,9 @@
 
 I'm a deeply technical guy, currently working at Microsoft Consulting as a Cross-Domain Architect after around 20 years of work in the telco/internet industry, where I did just about everything from network planning to mass-market product development.
 
-I've been blogging about technology in general (but mostly about Macs) at [Tao of Mac](https://taoofmac.com) since 2002, and have [a little portfolio site](https://carmo.io) with more info. 
+I've been blogging about technology in general (but mostly about Macs) at [Tao of Mac](https://taoofmac.com) since 2002, and have [a little portfolio site](https://carmo.io) with more info. Also, I am not afraid to do the dirty work and today I have cleaned my stove. 
+
+![@rcarmo on Instagram](https://instagram.flis8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/106808155_3138899652823989_2443299452342514529_n.jpg?_nc_ht=instagram.flis8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=glaTGaoHlKsAX_z3yVH&oh=e10513c3ca8e7da8111c56cbd37500bb&oe=5F321179)
 
 Make sure you also visit [Insightful Systems](https://github.com/insightfulsystems) and [Piku](https://github.com/piku) while you're here.
 
