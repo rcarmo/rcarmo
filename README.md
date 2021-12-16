@@ -1,6 +1,6 @@
 ## Hello World
 
-I'm a deeply technical guy, currently Chief Archiect at Microsoft Consulting (doing multi-disciplinary projects spanning Azure, Office 365 and Dynamics) after around 20 years of work in the telco/internet industry, where I did just about everything from network planning to mass-market product development.
+I'm a deeply technical guy, currently Principal Archiect at Azure for Operators (back in the telco low-level, high-performance, 5G/Edge/PMEC bleeding edge) after around 20 years of work in the telco/internet industry (where I did just about everything from network planning to mass-market product development) and 6 years doing Azure and cloud-native data elsewhere in Microsoft.
 
 I've been blogging about technology in general (but mostly about Macs) at [Tao of Mac](https://taoofmac.com) since 2002, and have [a little portfolio site](https://carmo.io) with more info. 
 
