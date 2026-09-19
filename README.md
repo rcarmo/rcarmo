@@ -1,6 +1,6 @@
 ## Hello World
 
-I'm a deeply technical guy, currently Principal Architect at Microsoft Industry Solutions, after three years at Azure for Operators (in the telco low-level, high-performance, 5G/Edge/PMEC bleeding edge). 
+I'm a deeply technical guy, currently Principal Architect at Microsoft Frontier Company after three years at Azure for Operators (in the telco low-level, high-performance, 5G/Edge/PMEC bleeding edge). 
 
 It's a different flavor from around 25 years of work in the telco/internet industry (where I did just about everything from network planning to mass-market product development) and 11+ years doing Azure and cloud-native apps, data & AI elsewhere in Microsoft.
 
